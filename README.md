@@ -41,6 +41,6 @@
 
 ## Файли у репозиторії
 - `query.sql` — SQL-запит для створення набору даних.
-- `dashboard_screenshot.png` — скріншот візуалізації у Looker Studio.
+- `dashboard.pdf` — візуалізація у Looker Studio.
 
 
